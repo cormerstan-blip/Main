@@ -1,5 +1,5 @@
 # Claude Context — MT5 Demo Bot
-*Auto-generated · Last updated: 2026-05-08 12:56 (Asia/Kuala_Lumpur)*
+*Auto-generated · Last updated: 2026-05-08 12:58 (Asia/Kuala_Lumpur)*
 
 ---
 
@@ -62,12 +62,12 @@ Start-Process -FilePath "C:\Python314\python.exe" `
 | Entry TF | M5 candles |
 | HTF filter | M15 EMA 9/21 must be bullish |
 | Signal | EMA 9/21 cross-up |
-| RSI | 40–65 entry · exit > 75 |
+| RSI | 40-65 entry, exit > 75 |
 | MACD | (12,26,9) line > signal |
-| Min ATR | ≥ 0.2% of price |
-| TP / SL | ATR × 3.0 / ATR × 1.5 (2:1 R:R) |
-| Trailing | Breakeven @ 1.0× ATR · trail @ 1.8× ATR |
-| Risk | 1.5% normal → 0.8% after ≥2 consec losses |
+| Min ATR | >= 0.2% of price |
+| TP / SL | ATR x 3.0 / ATR x 1.5 (2:1 R:R) |
+| Trailing | Breakeven @ 1.0x ATR, trail @ 1.8x ATR |
+| Risk | 1.5% normal -> 0.8% after >=2 consec losses |
 | Corr guard | No simultaneous BTC+ETH |
 | Circuit breaker | Pause 30 min after 4 consecutive losses |
 | Direction | Long only |
