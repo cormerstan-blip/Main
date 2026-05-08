@@ -1,27 +1,27 @@
 {
-  "updated": "2026-05-09T00:11:02",
+  "updated": "2026-05-09T00:11:22",
   "account": {
     "balance": 4921.96,
-    "equity": 4915.06,
-    "margin_free": 4800.55,
-    "pnl_session": -84.94
+    "equity": 4913.66,
+    "margin_free": 4799.15,
+    "pnl_session": -86.34
   },
   "prices": {
     "BTCUSD": {
-      "bid": 79959.0,
-      "ask": 79986.0
+      "bid": 79940.0,
+      "ask": 79967.0
     },
     "ETHUSD": {
-      "bid": 2288.79,
-      "ask": 2291.02
+      "bid": 2288.51,
+      "ask": 2290.74
     },
     "XAUUSD": {
-      "bid": 4710.29,
-      "ask": 4710.61
+      "bid": 4712.1,
+      "ask": 4712.38
     },
     "EURUSD": {
-      "bid": 1.17732,
-      "ask": 1.17742
+      "bid": 1.1773500000000001,
+      "ask": 1.17744
     }
   },
   "open_positions": [
@@ -32,32 +32,26 @@
       "entry": 2290.17,
       "sl": 2282.73,
       "tp": 2305.05,
-      "profit": -6.9
+      "profit": -8.3
     }
   ],
   "performance": {
-    "total_trades": 1,
+    "total_trades": 0,
     "wins": 0,
-    "losses": 1,
-    "win_rate_pct": 0.0,
-    "total_pnl": -78.3,
-    "consec_losses": 1,
+    "losses": 0,
+    "win_rate_pct": 0,
+    "total_pnl": 0.0,
+    "consec_losses": 0,
     "best_trade": 0.0,
-    "worst_trade": -78.3,
-    "by_symbol": {
-      "BTCUSD": {
-        "wins": 0,
-        "losses": 1,
-        "pnl": -78.3
-      }
-    }
+    "worst_trade": 0.0,
+    "by_symbol": {}
   },
   "signals": {
     "BTCUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 45.5,
-      "atr": 160.7771,
+      "rsi": 45.4,
+      "atr": 162.17,
       "trend_ok": false,
       "macd_ok": true,
       "atr_ok": true
@@ -66,7 +60,7 @@
       "cross_up": false,
       "cross_down": false,
       "rsi": 59.1,
-      "atr": 4.8543,
+      "atr": 4.9043,
       "trend_ok": true,
       "macd_ok": true,
       "atr_ok": true
@@ -75,7 +69,7 @@
       "cross_up": false,
       "cross_down": false,
       "rsi": 45.7,
-      "atr": 6.8436,
+      "atr": 6.9293,
       "trend_ok": false,
       "macd_ok": true,
       "atr_ok": true
