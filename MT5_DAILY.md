@@ -1,5 +1,5 @@
 # MT5 Daily Report - 2026-05-09
-*Updated: 2026-05-09 01:44 (Asia/Kuala_Lumpur)*
+*Updated: 2026-05-09 02:04 (Asia/Kuala_Lumpur)*
 
 ## Account
 | Field | Value |
@@ -29,10 +29,10 @@
 ## Signal Snapshot
 | Symbol | RSI | ATR ok | MACD | Trend | Cross |
 |--------|-----|--------|------|-------|-------|
-| BTCUSD | 72.7 | Y | Y | Y | - |
-| ETHUSD | 52.3 | Y | Y | Y | - |
-| XAUUSD | 72.1 | N | Y | Y | - |
-| EURUSD | 28.6 | N | Y | Y | UP |
+| BTCUSD | 67.8 | Y | Y | Y | - |
+| ETHUSD | 52.2 | Y | Y | Y | - |
+| XAUUSD | 75.8 | N | Y | Y | - |
+| EURUSD | 42.4 | N | Y | Y | - |
 
 ## Active Config
 | Parameter | Value |
