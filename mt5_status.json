@@ -1,27 +1,27 @@
 {
-  "updated": "2026-05-09T01:19:52",
+  "updated": "2026-05-09T01:20:01",
   "account": {
     "balance": 4921.96,
-    "equity": 4963.66,
-    "margin_free": 4849.15,
-    "pnl_session": -36.34
+    "equity": 4966.36,
+    "margin_free": 4851.85,
+    "pnl_session": -33.64
   },
   "prices": {
     "BTCUSD": {
-      "bid": 79984.28,
-      "ask": 80010.73
+      "bid": 79991.0,
+      "ask": 80018.0
     },
     "ETHUSD": {
-      "bid": 2298.51,
-      "ask": 2300.74
+      "bid": 2299.05,
+      "ask": 2301.26
     },
     "XAUUSD": {
-      "bid": 4718.96,
-      "ask": 4719.37
+      "bid": 4718.77,
+      "ask": 4719.05
     },
     "EURUSD": {
-      "bid": 1.17718,
-      "ask": 1.17728
+      "bid": 1.17715,
+      "ask": 1.17725
     }
   },
   "open_positions": [
@@ -32,7 +32,7 @@
       "entry": 2290.17,
       "sl": 2290.17,
       "tp": 2305.05,
-      "profit": 41.7
+      "profit": 44.4
     }
   ],
   "performance": {
@@ -54,10 +54,10 @@
   },
   "signals": {
     "BTCUSD": {
-      "cross_up": false,
+      "cross_up": true,
       "cross_down": false,
-      "rsi": 64.9,
-      "atr": 123.7843,
+      "rsi": 65.8,
+      "atr": 118.9629,
       "trend_ok": true,
       "macd_ok": true,
       "atr_ok": true
@@ -65,8 +65,8 @@
     "ETHUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 50.9,
-      "atr": 3.9479,
+      "rsi": 48.8,
+      "atr": 3.8186,
       "trend_ok": true,
       "macd_ok": true,
       "atr_ok": true
@@ -74,8 +74,8 @@
     "XAUUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 75.6,
-      "atr": 3.4721,
+      "rsi": 69.2,
+      "atr": 3.0807,
       "trend_ok": true,
       "macd_ok": true,
       "atr_ok": false
@@ -83,7 +83,7 @@
     "EURUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 26.5,
+      "rsi": 19.7,
       "atr": 0.0002,
       "trend_ok": false,
       "macd_ok": true,
