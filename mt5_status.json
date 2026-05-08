@@ -12,8 +12,8 @@
       "ask": 80186.99
     },
     "ETHUSD": {
-      "bid": 2310.74,
-      "ask": 2312.97
+      "bid": 2310.79,
+      "ask": 2313.02
     },
     "XAUUSD": {
       "bid": 4726.6,
@@ -60,7 +60,7 @@
     "ETHUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 48.2,
+      "rsi": 48.3,
       "atr": 5.9143,
       "trend_ok": true,
       "macd_ok": true,
