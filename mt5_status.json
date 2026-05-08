@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T02:36:43",
+  "updated": "2026-05-09T02:37:11",
   "account": {
     "balance": 4996.36,
     "equity": 4996.36,
@@ -8,16 +8,16 @@
   },
   "prices": {
     "BTCUSD": {
-      "bid": 80195.0,
-      "ask": 80222.0
+      "bid": 80190.0,
+      "ask": 80217.0
     },
     "ETHUSD": {
-      "bid": 2317.94,
-      "ask": 2320.17
+      "bid": 2317.21,
+      "ask": 2319.35
     },
     "XAUUSD": {
-      "bid": 4725.11,
-      "ask": 4725.39
+      "bid": 4724.82,
+      "ask": 4725.1
     },
     "EURUSD": {
       "bid": 1.17778,
@@ -52,7 +52,7 @@
       "cross_up": false,
       "cross_down": false,
       "rsi": 49.5,
-      "atr": 130.5093,
+      "atr": 130.545,
       "trend_ok": true,
       "macd_ok": true,
       "atr_ok": true
@@ -61,7 +61,7 @@
       "cross_up": false,
       "cross_down": false,
       "rsi": 34.3,
-      "atr": 5.9193,
+      "atr": 5.9371,
       "trend_ok": true,
       "macd_ok": true,
       "atr_ok": true
@@ -70,7 +70,7 @@
       "cross_up": false,
       "cross_down": false,
       "rsi": 38.2,
-      "atr": 2.8243,
+      "atr": 2.8379,
       "trend_ok": true,
       "macd_ok": true,
       "atr_ok": false
