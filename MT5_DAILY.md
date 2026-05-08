@@ -1,12 +1,12 @@
 # MT5 Daily Report - 2026-05-09
-*Updated: 2026-05-09 01:09 (Asia/Kuala_Lumpur)*
+*Updated: 2026-05-09 01:10 (Asia/Kuala_Lumpur)*
 
 ## Account
 | Field | Value |
 |-------|-------|
 | Balance | $4,921.96 |
-| Equity  | $4,935.91 |
-| Session P&L | $-64.09 |
+| Equity  | $4,936.56 |
+| Session P&L | $-63.44 |
 
 ## Cumulative Performance
 | Metric | Value |
@@ -28,10 +28,10 @@
 ## Signal Snapshot
 | Symbol | RSI | ATR ok | MACD | Trend | Cross |
 |--------|-----|--------|------|-------|-------|
-| BTCUSD | 50.1 | Y | Y | N | - |
-| ETHUSD | 43.0 | Y | Y | Y | - |
-| XAUUSD | 80.1 | N | Y | N | UP |
-| EURUSD | 46.1 | N | Y | N | - |
+| BTCUSD | 56.0 | Y | Y | N | - |
+| ETHUSD | 45.7 | Y | Y | Y | - |
+| XAUUSD | 79.9 | N | Y | N | - |
+| EURUSD | 31.9 | N | Y | N | - |
 
 ## Active Config
 | Parameter | Value |
