@@ -29,10 +29,10 @@
 ## Signal Snapshot
 | Symbol | RSI | ATR ok | MACD | Trend | Cross |
 |--------|-----|--------|------|-------|-------|
-| BTCUSD | 64.6 | Y | Y | Y | - |
+| BTCUSD | 64.7 | Y | Y | Y | - |
 | ETHUSD | 48.2 | Y | Y | Y | - |
-| XAUUSD | 65.6 | N | Y | Y | - |
-| EURUSD | 43.9 | N | Y | Y | - |
+| XAUUSD | 64.9 | N | Y | Y | - |
+| EURUSD | 44.0 | N | Y | Y | - |
 
 ## Active Config
 | Parameter | Value |
