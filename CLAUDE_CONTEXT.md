@@ -1,5 +1,5 @@
-# Claude Context — MT5 Demo Bot
-*Auto-generated · Last updated: 2026-05-08 12:58 (Asia/Kuala_Lumpur)*
+# Claude Context - MT5 Demo Bot
+*Auto-generated | Last updated: 2026-05-08 12:59 (Asia/Kuala_Lumpur)*
 
 ---
 
@@ -13,7 +13,7 @@
 ## What Is Running
 
 Autonomous Python bot (`mt5_autonomous.py`) on a Windows PC connected to MetaTrader 5.
-Polls every 30 s · evaluates signals · opens/closes trades · pushes status here after each poll.
+Polls every 30 s, evaluates signals, opens/closes trades, pushes status here after each poll.
 
 | Field | Value |
 |-------|-------|
@@ -30,8 +30,8 @@ Polls every 30 s · evaluates signals · opens/closes trades · pushes status he
 
 | Path | Purpose |
 |------|---------|
-| `C:\Users\PC\mt5_autonomous.py` | **Main bot — restart to resume** |
-| `C:\Users\PC\mt5_config.json` | Live config — bot reloads every poll |
+| `C:\Users\PC\mt5_autonomous.py` | **Main bot - restart to resume** |
+| `C:\Users\PC\mt5_config.json` | Live config - bot reloads every poll |
 | `C:\Users\PC\mt5_status.json` | Live snapshot pushed to GitHub every 30 s |
 | `C:\Users\PC\mt5_autonomous.log` | Console log |
 | `C:\Users\PC\ledger.json` | All trade records (JSON array) |
@@ -78,8 +78,8 @@ Start-Process -FilePath "C:\Python314\python.exe" `
 
 | Layer | What | Cadence |
 |-------|------|---------|
-| This repo — `mt5_status.json` | Live JSON snapshot | Every 30 s |
-| This repo — `MT5_DAILY.md` | Daily markdown summary | Daily |
+| This repo - `mt5_status.json` | Live JSON snapshot | Every 30 s |
+| This repo - `MT5_DAILY.md` | Daily markdown summary | Daily |
 | Cloud routine `trig_01Vtad8Uzu8jUjZmzf2BCvzg` | Hourly report on claude.ai | Every 1 h |
 
 ---
@@ -87,14 +87,14 @@ Start-Process -FilePath "C:\Python314\python.exe" `
 ## PAT Rotation
 
 1. Create new classic PAT at github.com/settings/tokens (scope: `repo`)
-2. Edit `C:\Users\PC\mt5_git.json` → update `"pat"` field
-3. Restart bot — `sync_git_auth()` syncs it to `.git/config` automatically
+2. Edit `C:\Users\PC\mt5_git.json` - update the `"pat"` field
+3. Restart bot - `sync_git_auth()` syncs it to `.git/config` automatically
 
 ---
 
 ## Environment
 
-- Python 3.14 · `C:\Python314\`
+- Python 3.14 at `C:\Python314\`
 - MetaTrader5 lib v5.0.5735
-- MT5 terminal · `C:\Program Files\MetaTrader 5\terminal64.exe`
+- MT5 terminal at `C:\Program Files\MetaTrader 5\terminal64.exe`
 - OctaFX: ORDER_FILLING_FOK only (baked in)
