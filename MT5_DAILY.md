@@ -31,8 +31,8 @@
 |--------|-----|--------|------|-------|-------|
 | BTCUSD | 63.5 | Y | Y | Y | - |
 | ETHUSD | 48.2 | Y | Y | Y | - |
-| XAUUSD | 65.7 | N | Y | Y | - |
-| EURUSD | 44.5 | N | Y | Y | - |
+| XAUUSD | 65.8 | N | Y | Y | - |
+| EURUSD | 44.4 | N | Y | Y | - |
 
 ## Active Config
 | Parameter | Value |
