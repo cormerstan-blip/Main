@@ -5,33 +5,28 @@
 | Field | Value |
 |-------|-------|
 | Balance | $4,921.96 |
-| Equity  | $4,930.81 |
-| Session P&L | $-69.19 |
+| Equity  | $4,933.16 |
+| Session P&L | $-66.84 |
 
 ## Cumulative Performance
 | Metric | Value |
 |--------|-------|
-| Total Trades | 1 |
+| Total Trades | 0 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 0 |
 | Win Rate | 0.0% |
-| Total P&L | $-78.30 |
+| Total P&L | $+0.00 |
 | Best Trade | $+0.00 |
-| Worst Trade | $-78.30 |
-| Consecutive Losses | 1 |
-
-## Per-Symbol Breakdown
-| Symbol | Trades | Wins | Losses | P&L |
-|--------|--------|------|--------|-----|
-| BTCUSD | 1 | 0 | 1 | $-78.30 |
+| Worst Trade | $+0.00 |
+| Consecutive Losses | 0 |
 
 ## Signal Snapshot
 | Symbol | RSI | ATR ok | MACD | Trend | Cross |
 |--------|-----|--------|------|-------|-------|
-| BTCUSD | 40.3 | Y | Y | Y | - |
-| ETHUSD | 52.5 | Y | Y | Y | - |
+| BTCUSD | 40.5 | Y | Y | Y | - |
+| ETHUSD | 52.4 | Y | Y | Y | - |
 | XAUUSD | 52.2 | Y | Y | N | - |
-| EURUSD | 40.1 | N | Y | Y | - |
+| EURUSD | 40.7 | N | Y | Y | - |
 
 ## Active Config
 | Parameter | Value |
