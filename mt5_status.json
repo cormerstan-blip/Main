@@ -1,27 +1,27 @@
 {
-  "updated": "2026-05-09T00:00:45",
+  "updated": "2026-05-09T00:01:02",
   "account": {
     "balance": 4921.96,
-    "equity": 4934.06,
-    "margin_free": 4819.55,
-    "pnl_session": -65.94
+    "equity": 4932.56,
+    "margin_free": 4818.05,
+    "pnl_session": -67.44
   },
   "prices": {
     "BTCUSD": {
-      "bid": 80148.0,
-      "ask": 80175.0
+      "bid": 80145.0,
+      "ask": 80172.0
     },
     "ETHUSD": {
-      "bid": 2292.59,
-      "ask": 2294.82
+      "bid": 2292.29,
+      "ask": 2294.52
     },
     "XAUUSD": {
-      "bid": 4708.36,
-      "ask": 4708.67
+      "bid": 4709.34,
+      "ask": 4709.62
     },
     "EURUSD": {
-      "bid": 1.17734,
-      "ask": 1.17744
+      "bid": 1.1774,
+      "ask": 1.1775
     }
   },
   "open_positions": [
@@ -32,32 +32,26 @@
       "entry": 2290.17,
       "sl": 2282.73,
       "tp": 2305.05,
-      "profit": 12.1
+      "profit": 10.6
     }
   ],
   "performance": {
-    "total_trades": 1,
+    "total_trades": 0,
     "wins": 0,
-    "losses": 1,
-    "win_rate_pct": 0.0,
-    "total_pnl": -78.3,
-    "consec_losses": 1,
+    "losses": 0,
+    "win_rate_pct": 0,
+    "total_pnl": 0.0,
+    "consec_losses": 0,
     "best_trade": 0.0,
-    "worst_trade": -78.3,
-    "by_symbol": {
-      "BTCUSD": {
-        "wins": 0,
-        "losses": 1,
-        "pnl": -78.3
-      }
-    }
+    "worst_trade": 0.0,
+    "by_symbol": {}
   },
   "signals": {
     "BTCUSD": {
       "cross_up": false,
       "cross_down": false,
       "rsi": 40.5,
-      "atr": 160.6086,
+      "atr": 160.7871,
       "trend_ok": true,
       "macd_ok": true,
       "atr_ok": true
@@ -75,7 +69,7 @@
       "cross_up": false,
       "cross_down": false,
       "rsi": 52.2,
-      "atr": 6.6071,
+      "atr": 6.6907,
       "trend_ok": false,
       "macd_ok": true,
       "atr_ok": true
@@ -83,7 +77,7 @@
     "EURUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 40.5,
+      "rsi": 40.9,
       "atr": 0.0004,
       "trend_ok": true,
       "macd_ok": true,
