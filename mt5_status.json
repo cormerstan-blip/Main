@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T23:15:13",
+  "updated": "2026-05-08T23:15:33",
   "account": {
     "balance": 4921.96,
     "equity": 4921.96,
@@ -8,46 +8,40 @@
   },
   "prices": {
     "BTCUSD": {
-      "bid": 79868.0,
-      "ask": 79895.0
+      "bid": 79827.0,
+      "ask": 79854.0
     },
     "ETHUSD": {
-      "bid": 2279.79,
-      "ask": 2282.02
+      "bid": 2278.41,
+      "ask": 2280.64
     },
     "XAUUSD": {
-      "bid": 4706.86,
-      "ask": 4707.17
+      "bid": 4707.46,
+      "ask": 4707.77
     },
     "EURUSD": {
-      "bid": 1.1770100000000001,
-      "ask": 1.1771099999999999
+      "bid": 1.17705,
+      "ask": 1.17715
     }
   },
   "open_positions": [],
   "performance": {
-    "total_trades": 1,
+    "total_trades": 0,
     "wins": 0,
-    "losses": 1,
-    "win_rate_pct": 0.0,
-    "total_pnl": -78.3,
-    "consec_losses": 1,
+    "losses": 0,
+    "win_rate_pct": 0,
+    "total_pnl": 0.0,
+    "consec_losses": 0,
     "best_trade": 0.0,
-    "worst_trade": -78.3,
-    "by_symbol": {
-      "BTCUSD": {
-        "wins": 0,
-        "losses": 1,
-        "pnl": -78.3
-      }
-    }
+    "worst_trade": 0.0,
+    "by_symbol": {}
   },
   "signals": {
     "BTCUSD": {
       "cross_up": false,
       "cross_down": true,
-      "rsi": 48.4,
-      "atr": 212.1257,
+      "rsi": 48.5,
+      "atr": 212.7686,
       "trend_ok": false,
       "macd_ok": true,
       "atr_ok": true
@@ -55,8 +49,8 @@
     "ETHUSD": {
       "cross_up": false,
       "cross_down": true,
-      "rsi": 55.9,
-      "atr": 6.2521,
+      "rsi": 55.5,
+      "atr": 6.3043,
       "trend_ok": false,
       "macd_ok": true,
       "atr_ok": true
@@ -64,8 +58,8 @@
     "XAUUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 35.8,
-      "atr": 7.7229,
+      "rsi": 35.4,
+      "atr": 7.7293,
       "trend_ok": false,
       "macd_ok": true,
       "atr_ok": true
@@ -73,7 +67,7 @@
     "EURUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 32.7,
+      "rsi": 33.0,
       "atr": 0.0004,
       "trend_ok": false,
       "macd_ok": true,
