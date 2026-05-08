@@ -1,5 +1,5 @@
 # MT5 Daily Report - 2026-05-09
-*Updated: 2026-05-09 02:13 (Asia/Kuala_Lumpur)*
+*Updated: 2026-05-09 02:14 (Asia/Kuala_Lumpur)*
 
 ## Account
 | Field | Value |
@@ -31,7 +31,7 @@
 |--------|-----|--------|------|-------|-------|
 | BTCUSD | 65.3 | Y | Y | Y | - |
 | ETHUSD | 48.3 | Y | Y | Y | - |
-| XAUUSD | 67.2 | N | Y | Y | - |
+| XAUUSD | 66.5 | N | Y | Y | - |
 | EURUSD | 41.9 | N | Y | Y | - |
 
 ## Active Config
