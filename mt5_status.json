@@ -1,27 +1,27 @@
 {
-  "updated": "2026-05-09T00:37:00",
+  "updated": "2026-05-09T00:37:27",
   "account": {
     "balance": 4921.96,
-    "equity": 4908.66,
-    "margin_free": 4794.15,
-    "pnl_session": -91.34
+    "equity": 4911.91,
+    "margin_free": 4797.4,
+    "pnl_session": -88.09
   },
   "prices": {
     "BTCUSD": {
-      "bid": 79789.0,
-      "ask": 79816.0
+      "bid": 79799.0,
+      "ask": 79826.0
     },
     "ETHUSD": {
-      "bid": 2287.51,
-      "ask": 2289.74
+      "bid": 2288.16,
+      "ask": 2290.39
     },
     "XAUUSD": {
-      "bid": 4716.91,
-      "ask": 4717.2
+      "bid": 4717.42,
+      "ask": 4717.75
     },
     "EURUSD": {
-      "bid": 1.17742,
-      "ask": 1.17752
+      "bid": 1.17744,
+      "ask": 1.17754
     }
   },
   "open_positions": [
@@ -32,31 +32,25 @@
       "entry": 2290.17,
       "sl": 2282.73,
       "tp": 2305.05,
-      "profit": -13.3
+      "profit": -10.4
     }
   ],
   "performance": {
-    "total_trades": 1,
+    "total_trades": 0,
     "wins": 0,
-    "losses": 1,
-    "win_rate_pct": 0.0,
-    "total_pnl": -78.3,
-    "consec_losses": 1,
+    "losses": 0,
+    "win_rate_pct": 0,
+    "total_pnl": 0.0,
+    "consec_losses": 0,
     "best_trade": 0.0,
-    "worst_trade": -78.3,
-    "by_symbol": {
-      "BTCUSD": {
-        "wins": 0,
-        "losses": 1,
-        "pnl": -78.3
-      }
-    }
+    "worst_trade": 0.0,
+    "by_symbol": {}
   },
   "signals": {
     "BTCUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 58.7,
+      "rsi": 58.9,
       "atr": 142.7264,
       "trend_ok": false,
       "macd_ok": true,
@@ -65,8 +59,8 @@
     "ETHUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 62.5,
-      "atr": 4.35,
+      "rsi": 61.7,
+      "atr": 4.3593,
       "trend_ok": true,
       "macd_ok": true,
       "atr_ok": true
@@ -74,16 +68,16 @@
     "XAUUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 54.6,
+      "rsi": 54.5,
       "atr": 5.1964,
-      "trend_ok": false,
+      "trend_ok": true,
       "macd_ok": true,
       "atr_ok": true
     },
     "EURUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 44.4,
+      "rsi": 44.5,
       "atr": 0.0004,
       "trend_ok": true,
       "macd_ok": true,
