@@ -1,27 +1,27 @@
 {
-  "updated": "2026-05-09T00:25:38",
+  "updated": "2026-05-09T00:26:03",
   "account": {
     "balance": 4921.96,
-    "equity": 4929.91,
-    "margin_free": 4815.4,
-    "pnl_session": -70.09
+    "equity": 4918.06,
+    "margin_free": 4803.55,
+    "pnl_session": -81.94
   },
   "prices": {
     "BTCUSD": {
-      "bid": 80017.0,
-      "ask": 80044.0
+      "bid": 79958.5,
+      "ask": 79985.5
     },
     "ETHUSD": {
-      "bid": 2291.76,
-      "ask": 2293.99
+      "bid": 2289.39,
+      "ask": 2291.62
     },
     "XAUUSD": {
-      "bid": 4715.32,
-      "ask": 4715.6
+      "bid": 4714.43,
+      "ask": 4714.71
     },
     "EURUSD": {
-      "bid": 1.17757,
-      "ask": 1.17767
+      "bid": 1.17755,
+      "ask": 1.17765
     }
   },
   "open_positions": [
@@ -32,40 +32,34 @@
       "entry": 2290.17,
       "sl": 2282.73,
       "tp": 2305.05,
-      "profit": 7.95
+      "profit": -3.9
     }
   ],
   "performance": {
-    "total_trades": 1,
+    "total_trades": 0,
     "wins": 0,
-    "losses": 1,
-    "win_rate_pct": 0.0,
-    "total_pnl": -78.3,
-    "consec_losses": 1,
+    "losses": 0,
+    "win_rate_pct": 0,
+    "total_pnl": 0.0,
+    "consec_losses": 0,
     "best_trade": 0.0,
-    "worst_trade": -78.3,
-    "by_symbol": {
-      "BTCUSD": {
-        "wins": 0,
-        "losses": 1,
-        "pnl": -78.3
-      }
-    }
+    "worst_trade": 0.0,
+    "by_symbol": {}
   },
   "signals": {
     "BTCUSD": {
       "cross_up": true,
       "cross_down": false,
-      "rsi": 60.0,
+      "rsi": 61.5,
       "atr": 148.6057,
-      "trend_ok": true,
+      "trend_ok": false,
       "macd_ok": true,
       "atr_ok": true
     },
     "ETHUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 61.4,
+      "rsi": 63.3,
       "atr": 4.5536,
       "trend_ok": true,
       "macd_ok": true,
@@ -74,7 +68,7 @@
     "XAUUSD": {
       "cross_up": false,
       "cross_down": false,
-      "rsi": 52.5,
+      "rsi": 52.6,
       "atr": 5.7093,
       "trend_ok": false,
       "macd_ok": true,
