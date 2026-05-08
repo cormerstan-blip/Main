@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T23:46:58",
+  "updated": "2026-05-08T23:47:14",
   "account": {
     "balance": 4921.96,
     "equity": 4921.96,
@@ -8,41 +8,47 @@
   },
   "prices": {
     "BTCUSD": {
-      "bid": 79947.0,
-      "ask": 79974.0
+      "bid": 79956.5,
+      "ask": 79983.5
     },
     "ETHUSD": {
-      "bid": 2284.09,
-      "ask": 2286.32
+      "bid": 2284.79,
+      "ask": 2287.02
     },
     "XAUUSD": {
-      "bid": 4705.87,
-      "ask": 4706.15
+      "bid": 4707.3,
+      "ask": 4707.62
     },
     "EURUSD": {
-      "bid": 1.1774499999999999,
-      "ask": 1.17755
+      "bid": 1.1775,
+      "ask": 1.1776
     }
   },
   "open_positions": [],
   "performance": {
-    "total_trades": 0,
+    "total_trades": 1,
     "wins": 0,
-    "losses": 0,
-    "win_rate_pct": 0,
-    "total_pnl": 0.0,
-    "consec_losses": 0,
+    "losses": 1,
+    "win_rate_pct": 0.0,
+    "total_pnl": -78.3,
+    "consec_losses": 1,
     "best_trade": 0.0,
-    "worst_trade": 0.0,
-    "by_symbol": {}
+    "worst_trade": -78.3,
+    "by_symbol": {
+      "BTCUSD": {
+        "wins": 0,
+        "losses": 1,
+        "pnl": -78.3
+      }
+    }
   },
   "signals": {
     "BTCUSD": {
       "cross_up": false,
       "cross_down": false,
       "rsi": 35.8,
-      "atr": 155.2157,
-      "trend_ok": false,
+      "atr": 156.68,
+      "trend_ok": true,
       "macd_ok": true,
       "atr_ok": true
     },
@@ -50,7 +56,7 @@
       "cross_up": true,
       "cross_down": false,
       "rsi": 52.1,
-      "atr": 4.7021,
+      "atr": 4.7414,
       "trend_ok": true,
       "macd_ok": true,
       "atr_ok": true
@@ -59,7 +65,7 @@
       "cross_up": false,
       "cross_down": false,
       "rsi": 46.0,
-      "atr": 7.16,
+      "atr": 7.2736,
       "trend_ok": false,
       "macd_ok": true,
       "atr_ok": true
@@ -67,7 +73,7 @@
     "EURUSD": {
       "cross_up": true,
       "cross_down": false,
-      "rsi": 41.7,
+      "rsi": 42.0,
       "atr": 0.0004,
       "trend_ok": true,
       "macd_ok": true,
