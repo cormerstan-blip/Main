@@ -1,37 +1,38 @@
 # MT5 Daily Report - 2026-05-09
-*Updated: 2026-05-09 01:13 (Asia/Kuala_Lumpur)*
+*Updated: 2026-05-09 01:33 (Asia/Kuala_Lumpur)*
 
 ## Account
 | Field | Value |
 |-------|-------|
-| Balance | $4,921.96 |
-| Equity  | $4,938.66 |
-| Session P&L | $-61.34 |
+| Balance | $4,996.36 |
+| Equity  | $4,996.36 |
+| Session P&L | $-3.64 |
 
 ## Cumulative Performance
 | Metric | Value |
 |--------|-------|
-| Total Trades | 1 |
-| Wins | 0 |
+| Total Trades | 2 |
+| Wins | 1 |
 | Losses | 1 |
-| Win Rate | 0.0% |
-| Total P&L | $-78.30 |
-| Best Trade | $+0.00 |
+| Win Rate | 50.0% |
+| Total P&L | $-3.90 |
+| Best Trade | $+74.40 |
 | Worst Trade | $-78.30 |
-| Consecutive Losses | 1 |
+| Consecutive Losses | 0 |
 
 ## Per-Symbol Breakdown
 | Symbol | Trades | Wins | Losses | P&L |
 |--------|--------|------|--------|-----|
 | BTCUSD | 1 | 0 | 1 | $-78.30 |
+| ETHUSD | 1 | 1 | 0 | $+74.40 |
 
 ## Signal Snapshot
 | Symbol | RSI | ATR ok | MACD | Trend | Cross |
 |--------|-----|--------|------|-------|-------|
-| BTCUSD | 55.7 | Y | Y | N | - |
-| ETHUSD | 45.9 | Y | Y | Y | - |
-| XAUUSD | 79.9 | N | Y | N | - |
-| EURUSD | 31.9 | N | Y | N | - |
+| BTCUSD | 65.2 | Y | Y | Y | - |
+| ETHUSD | 48.3 | Y | Y | Y | - |
+| XAUUSD | 56.7 | N | Y | Y | - |
+| EURUSD | 21.8 | N | Y | Y | - |
 
 ## Active Config
 | Parameter | Value |
